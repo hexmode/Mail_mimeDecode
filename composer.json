@@ -1,5 +1,12 @@
 {
+    "name": "hexmode/mail_mimedecode",
     "authors": [
+        {
+            "email": "mah@nichework.com",
+            "name": "Mark A. Hershberger",
+            "homepage": "http://hexmode.com",
+            "role": "Developer, composer"
+        },
         {
             "email": "alan@roojs.com",
             "name": "Alan Knowles",
@@ -28,7 +35,6 @@
         "./"
     ],
     "license": "BSD-3-clause",
-    "name": "pear/mail_mimedecode",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Mail_mimeDecode",
         "source": "https://github.com/pear/Mail_mimeDecode"
